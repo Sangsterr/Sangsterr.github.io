@@ -27,23 +27,6 @@ body {font-family: 'Times New Roman', Times, serif;
     
 }
 
-.collapsible {
-    background-color: #53f399;
-    text-align: center;
-    border: plum solid 2px;
-}
-
-.active, .collapsible:hover {
-    background-color: #ccc;
-}
-
-.content {
-    padding: 0 18px;
-    display: none;
-    overflow: hidden;
-    background-color: #f5baba;
-}
-
 section {
     margin: auto;
 }
